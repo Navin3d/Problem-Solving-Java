@@ -1,0 +1,12 @@
+import java.util.List;
+import java.util.ArrayList;
+
+import models.Song;
+
+public class MyClass {
+	public static void main(String args[]) {
+		Song song1 = new Song(1, "Ranga", "No Idea", 4.56);
+		Song song2 = new Song(2, "Vathi COmming", "Aniruth", 4.56);
+		Song song3 = new Song(3, "Vambula Thimbula", "Santhosn naryanan", 4.56);
+	}
+}
