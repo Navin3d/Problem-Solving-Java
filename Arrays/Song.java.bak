@@ -1,8 +1,0 @@
-package loga.model;
-
-class Song {
-	int songId;
-	String title;
-	String artist;
-	double duration;
-}
